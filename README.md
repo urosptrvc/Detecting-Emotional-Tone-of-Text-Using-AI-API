@@ -25,16 +25,17 @@ This is a simple React-based web application that detects the emotional tone of 
 
 ### 2. Install Dependencies
 Install the required dependencies using npm:
-    npm install
+   - npm install
 
 ### 3. Set Up Environment Variables
 Create a .env file in the root directory of your project to store the API key:
-    REACT_APP_API_KEY=your_sapling_api
+   - REACT_APP_API_KEY=your_sapling_api
+
 Note: Replace "your_sapling_api" with the actual API key obtained from Sapling.ai or the API provider of your choice.
 
 ### 4. Run the Application
 To start the development server:
-    npm start
+   - npm start
 
 ### Code Overview
 
