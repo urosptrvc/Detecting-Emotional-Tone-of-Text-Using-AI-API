@@ -20,7 +20,7 @@ This is a simple React-based web application that detects the emotional tone of 
 ## Getting Started
 
 ### 1. Clone the Repository
-    git clone <https://github.com/urosptrvc/Aqua-Web-Inspector>
+    git clone <https://github.com/urosptrvc/Detecting-Emotional-Tone-of-Text-Using-AI-API>
     cd emotional-ai-detector
 
 ### 2. Install Dependencies
